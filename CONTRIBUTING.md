@@ -9,7 +9,7 @@ Thank you for your interest in contributing! This repository is a curated list o
 1. Fork this repository by clicking the **Fork** button at the top of the page.
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/<your-username>/Dark-Web.git
+   git clone https://github.com/<s4ntrx>/Dark-Web.git
    cd Dark-Web
    ```
 
